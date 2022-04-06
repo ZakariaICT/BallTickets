@@ -7,6 +7,20 @@
 User friendly You apply basic User experience testing and development techniques. 
 Full-stack You design and build a full stack application using commonly accepted front end (JavaScript-based framework) and back end techniques (e.g., Object Relational Mapping) choosing and implementing relevant communication protocols and addressing asynchronous communication issues.
 
+#### What does this learning outcome mean?
+
+For this learning outcome i need to make a full-stack application. Which means on the end of this semester i need to have a website where i did put my requirments in and a website that uses  a front and back-end language.
+
+#### What have i done for this learning outcome?
+
+##### Sprint 3 
+
+I did make a frontend homepage already. I made this with HTML, CSS and JS code. This is the homepage:
+
+![image](https://user-images.githubusercontent.com/99720725/161959369-f3d9666b-3b65-4489-9635-ee0f6f3e2461.png)
+
+Also i made a JAVA project where i did make a bit of code in. I now know how to make tables from my java code to my mssql database. I can do this because of my connection that i made in my code.
+
 #### <ins> Learning Outcome 2 </ins>
 
 #### Software equality: You use software tooling and methodology that continuously monitors and improve the software quality during software development.
