@@ -1,2 +1,4 @@
 # BallTickets
-My project of JAVA 
+
+
+[Architecture](https://github.com/ZakariaICT/BallTickets/blob/main/Architecture.md)
