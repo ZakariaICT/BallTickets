@@ -55,7 +55,9 @@ Choose You are aware of the most popular agile methods and their underlying agil
 For this learning outcome i need to work within my group on a Agile way. This is a way to manage a project while breking it into several phases. The phases are: concept, inception, iteration, release, maintenance, and retirement. 
 
 [Link to Outcome 3](https://fhict.instructure.com/courses/12096/pages/project-management-agile-why-and-how) 
+
 [Link to Outcome 3](https://fhict.instructure.com/courses/12096/pages/project-management-how-to-plan-in-agile-projects) 
+
 [Link to Outcome 3](https://fhict.instructure.com/courses/12096/pages/project-management-agile-management-tools)
 
 #### What have i done for this learning outcome?
