@@ -11,8 +11,11 @@ Full-stack You design and build a full stack application using commonly accepted
 
 For this learning outcome i need to make a full-stack application. Which means on the end of this semester i need to have a website where i did put my requirments in and a website that uses  a front and back-end language.
 
-[Link to Outcome 1](https://fhict.instructure.com/courses/12096/pages/ui-design-is-your-application-user-friendly) 
-[Link to Outcome 1](https://fhict.instructure.com/courses/12096/pages/testing-how-to-test-in-agile-projects) (https://fhict.instructure.com/courses/12096/pages/software-development)
+[Link to Outcome 1](https://fhict.instructure.com/courses/12096/pages/ui-design-is-your-application-user-friendly)
+
+[Link to Outcome 1](https://fhict.instructure.com/courses/12096/pages/testing-how-to-test-in-agile-projects) 
+
+[Link to Outcome 1](https://fhict.instructure.com/courses/12096/pages/software-development)
 
 #### What have i done for this learning outcome?
 
