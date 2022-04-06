@@ -10,6 +10,7 @@ Criteria
 6.	Which language has a better performance?
 7.	Which language is more popular?
 8.	Which language is easy to make unit tests in?
+
 ![WINWORD_HZju8wNT4i](https://user-images.githubusercontent.com/99720725/161956034-3fa48346-e647-4e53-b97b-c7e3ed186316.png)
 
 I did some research on JAVA and came to the conclusion that JAVA has been around here for a while.  JAVA Is just a language like c# where you can make software applications for yourself. Now I know a bit about JAVA and of course c# I thought like what is better for me to work with in this semester. I was looking for the best option where to make a website in. I based this research on a few criteria. Based on these criteria I come to the conclusion that the best language that suits my wishes for now is JAVA with a little bit. This comes out good because I really want to learn a new language.
