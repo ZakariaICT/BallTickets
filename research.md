@@ -1,6 +1,6 @@
-## Backend
+# Backend
 
-# JAVA or C#?
+## JAVA or C#?
 Criteria
 1.	Which language is better for making a website?
 2.	Which language is easier to learn in a short amount of time?
@@ -20,7 +20,7 @@ Pros of JAVA that go along with my criteria:
 -	It is platform-independent.
 -	It is secure.
  
-Framework
+## Framework
 So there are a lot of Frameworks in JAVA. You have got for example Spring, JSF, GWT or Play etc. 
 I will look in to these frameworks while basing this on a few criteria.
 Criteria
@@ -40,12 +40,14 @@ Pros of Spring that go along with my criteria:
 -	Secure
 -	Productive
 -	Easier Testing 
-Frontend
 
-Language
+
+# Frontend
+
+## Language
 For the frontend I will use JavaScript. I am happy to be working with JS because I didn’t already worked with JS. Also JS is a really popular language. But for me the most important thin in a language is that is has to be a bit simple and JS is a simple language.
 
-Framework
+## Framework
 There are a lot of frameworks in JS such as REACT, Vue, Angular, Ember etc. I will look into these framework and base my research on a few criteria.
 Criteria:
 1.	Which suits best for making a website?
