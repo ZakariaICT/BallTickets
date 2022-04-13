@@ -72,7 +72,7 @@ Design and implement You design a release process and implement a continuous int
 
 #### What does this learning outcome mean?
 
-CI/CD stands for continuous integration and continuous delivery/continuous deployment. This automates your software deleviry proces. So in my case i use Github and Github already has an extension that i can use for my CI/CD implementation. What i understand of CI is that my code will build, test and analyse as soon as i push my code to git when making a yml file.
+CI/CD stands for continuous integration and continuous delivery/continuous deployment. This automates your software deleviry proces. So in my case i use Github and Github already has an extension that i can use for my CI/CD implementation. What i understand of CI is that my code will build, test and analyse as soon as i push my code to git when making a yml file. Also it makes it easier to automatically test my code because otherwise i need to do this manually. CD is the continuous deleviry. Herby i will make a docker repository where i will push my code in and make an image from this. CD helps with checking if my code is compatible for other devices such as apple or samsung and not only for windows. 
 
 [Link to Outcome 4]()
 
