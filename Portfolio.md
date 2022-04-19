@@ -11,11 +11,11 @@ Full-stack You design and build a full stack application using commonly accepted
 
 For this learning outcome i need to make a full-stack application. Which means on the end of this semester i need to have a website where i did put my requirments in and a website that uses  a front and back-end language.
 
-[Link to Outcome 1](https://fhict.instructure.com/courses/12096/pages/ui-design-is-your-application-user-friendly)
+[Outcome 1](https://fhict.instructure.com/courses/12096/pages/ui-design-is-your-application-user-friendly)
 
-[Link to Outcome 1](https://fhict.instructure.com/courses/12096/pages/testing-how-to-test-in-agile-projects) 
+[Outcome 1](https://fhict.instructure.com/courses/12096/pages/testing-how-to-test-in-agile-projects) 
 
-[Link to Outcome 1](https://fhict.instructure.com/courses/12096/pages/software-development)
+[Outcome 1](https://fhict.instructure.com/courses/12096/pages/software-development)
 
 #### What have i done for this learning outcome?
 
@@ -38,7 +38,7 @@ Tooling and methodology Carry out, monitor and report on unit integration, regre
 
 TBA
 
-[Link to Outcome 2]()
+[Outcome 2]()
 
 
 #### What have i done for this learning outcome?
@@ -54,11 +54,11 @@ Choose You are aware of the most popular agile methods and their underlying agil
 
 For this learning outcome i need to work within my group on a Agile way. This is a way to manage a project while breking it into several phases. The phases are: concept, inception, iteration, release, maintenance, and retirement. 
 
-[Link to Outcome 3](https://fhict.instructure.com/courses/12096/pages/project-management-agile-why-and-how) 
+[Outcome 3](https://fhict.instructure.com/courses/12096/pages/project-management-agile-why-and-how) 
 
-[Link to Outcome 3](https://fhict.instructure.com/courses/12096/pages/project-management-how-to-plan-in-agile-projects) 
+[Outcome 3](https://fhict.instructure.com/courses/12096/pages/project-management-how-to-plan-in-agile-projects) 
 
-[Link to Outcome 3](https://fhict.instructure.com/courses/12096/pages/project-management-agile-management-tools)
+[Outcome 3](https://fhict.instructure.com/courses/12096/pages/project-management-agile-management-tools)
 
 #### What have i done for this learning outcome?
 
@@ -68,7 +68,7 @@ For our project we use the Scrum method. This is a method within Agile that is c
 
 [Sprint Backlog/Schedule](https://github.com/AnwarIbrahimi/Netmatch/projects/3)
 
-BurndownChart sprint 3
+# BurndownChart sprint 3
 
 ![chrome_s6fBrBAlNT](https://user-images.githubusercontent.com/99720725/163978383-a148ae9a-0048-47e4-823a-564b3f497e4b.png)
 
@@ -85,7 +85,7 @@ Design and implement You design a release process and implement a continuous int
 
 CI/CD stands for continuous integration and continuous delivery/continuous deployment. This automates your software deleviry proces. So in my case i use Github and Github already has an extension that i can use for my CI/CD implementation. What i understand of CI is that my code will build, test and analyse as soon as i push my code to git when making a yml file. Also it makes it easier to automatically test my code because otherwise i need to do this manually. CD is the continuous deleviry. Herby i will make a docker repository where i will push my code in and make an image from this. CD helps with checking if my code is compatible for other devices such as apple or samsung and not only for windows. 
 
-[Link to Outcome 4]()
+[Outcome 4]()
 
 #### What have i done for this learning outcome?
 
@@ -115,7 +115,7 @@ Recognize Recognition is based on theoretically substantiated awareness of cultu
 
 TBA
 
-[Link to Outcome 5](https://fhict.instructure.com/courses/12096/pages/group-management-can-you-work-with-people-from-other-cultures)
+[Outcome 5](https://fhict.instructure.com/courses/12096/pages/group-management-can-you-work-with-people-from-other-cultures)
 
 #### What have i done for this learning outcome?
 
@@ -130,7 +130,7 @@ Multiple types of test techniques You apply user acceptance testing and stakehol
 
 For this learning outcome i need to make tests affter finising my code for by example a use case. Also i need to get feedback from my teachers.
 
-[Links to Outcome 6](https://fhict.instructure.com/courses/12096/pages/stakeholder-analysis-who-has-a-stake-in-the-project-and-in-the-software)
+[Outcome 6](https://fhict.instructure.com/courses/12096/pages/stakeholder-analysis-who-has-a-stake-in-the-project-and-in-the-software)
 
 #### What have i done for this learning outcome?
 
@@ -145,7 +145,7 @@ Simple Involving stakeholders, predominantly sequential processes with one or tw
 
 For this learning outcome i need to work with my gorup mates. We need to work on our project in the way a business process goes. So we need to take steps in making the application the company asked for.
 
-[Link to Outcome 7](https://fhict.instructure.com/courses/12096/pages/process-analysis-which-processes-are-supported-by-your-software)
+[Outcome 7](https://fhict.instructure.com/courses/12096/pages/process-analysis-which-processes-are-supported-by-your-software)
 
 #### What have i done for this learning outcome?
 
@@ -160,7 +160,7 @@ Professional manner You actively ask and apply feedback from stakeholders and ad
 
 For this learning outcome i need to ask feedback to my stakeholders and also use these feedback and implement this in my project. I myself need to come with solutions on problems in my project but the stakeholders could help a little bit.
 
-[Link to Outcome 8](https://fhict.instructure.com/courses/12096/pages/integrating-research-in-your-project)
+[Outcome 8](https://fhict.instructure.com/courses/12096/pages/integrating-research-in-your-project)
 
 #### What have i done for this learning outcome?
 
