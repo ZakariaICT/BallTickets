@@ -68,6 +68,11 @@ For our project we use the Scrum method. This is a method within Agile that is c
 
 [Sprint Backlog/Schedule](https://github.com/AnwarIbrahimi/Netmatch/projects/3)
 
+BurndownChart sprint 3
+
+![chrome_s6fBrBAlNT](https://user-images.githubusercontent.com/99720725/163978383-a148ae9a-0048-47e4-823a-564b3f497e4b.png)
+
+
 
 #### <ins> Learning Outcome 4 </ins> 
 
