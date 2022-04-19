@@ -62,6 +62,12 @@ For this learning outcome i need to work within my group on a Agile way. This is
 
 #### What have i done for this learning outcome?
 
+For our project we use the Scrum method. This is a method within Agile that is characterised by cycles or stages of developmeent. We do this in sprints. We use GitHub for our schedules but also for our code. We have different branches that we work in so that the main code wont be affected and can't go wrong. Each sprint we make a sprint schedules in the begin and also a burndown chart. We make sprint schedules in GitHub but the burndownchart is made in Trello. Each sprint we have a different scrum master. Our product backlog is made in Trello, in this backlog you can find all things that need to be done for our project. Every day we start with a stand up where we discuss what we will do that day and what we want to have done.
+
+[Product Backlog](https://trello.com/b/9dGssG81/netmatch-sprint-3-%F0%9F%94%A5-19-04-22-12-05-22)
+
+[Sprint Backlog/Schedule](https://github.com/AnwarIbrahimi/Netmatch/projects/3)
+
 
 #### <ins> Learning Outcome 4 </ins> 
 
