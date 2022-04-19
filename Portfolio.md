@@ -78,6 +78,21 @@ CI/CD stands for continuous integration and continuous delivery/continuous deplo
 
 #### What have i done for this learning outcome?
 
+##### Sprint 3 
+
+Maven.YML File:
+
+![idea64_m3nmnCZKDD](https://user-images.githubusercontent.com/99720725/163973833-6875d682-9347-4ce6-8260-dcd5f0c6f1f8.png)
+
+I made a maven.yml file for my CI in github. With this every time i push my code to git the code will be checked by git and it runs tests for me automatically. These tests must be made by myself in my code.
+
+Docker push image:
+
+![idea64_cdOZgdhvCe](https://user-images.githubusercontent.com/99720725/163974039-97ea09b6-8256-403f-a14c-e7411039df1f.png)
+
+Once my code has been build and checked then it will be pushed to docker to create an image. This happens automatically because of the code i wrote in the picture above. This is an example for 1 image. 
+
+
 #### <ins> Learning Outcome 5 </ins>
 
 #### You recognize and take into account cultural differences between project stakeholders and ethical aspects in software development.
