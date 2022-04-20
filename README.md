@@ -1,7 +1,6 @@
 # BallTickets
 
-![image](https://user-images.githubusercontent.com/99720725/164238368-8d21f3de-377f-4f97-834e-808f42bdf723.png)
-
+![image](https://user-images.githubusercontent.com/99720725/164238501-53d6b8b6-f87a-4c2b-8956-b21de13ffdd4.png)
 
 
 [Architecture](https://github.com/ZakariaICT/BallTickets/blob/main/Architecture.md)
