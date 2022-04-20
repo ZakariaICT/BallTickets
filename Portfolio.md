@@ -134,6 +134,10 @@ For this learning outcome i need to make tests affter finising my code for by ex
 
 #### What have i done for this learning outcome?
 
+I created a c4 diagram for my application. You can find this in my architecture document.
+
+[Architecture Document](https://github.com/ZakariaICT/BallTickets/blob/main/Architecture.md)
+
 #### <ins> Learning Outcome 7 </ins>
 
 #### You analyse and describe simple business processes that are related to your project.
