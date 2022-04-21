@@ -119,6 +119,13 @@ TBA
 
 #### What have i done for this learning outcome?
 
+I did a pesonal test about what i actually am according to a few questions. This is what came out of the test:
+
+![Personal Test](https://user-images.githubusercontent.com/99720725/164413926-b73afb26-e9c6-41f8-8408-e51a1c89399d.png)
+
+As you can see i am a introvert person. This is what i already thought i would be. I am no the type that starts a conversation in the group so soon but i prefer to wait and join the conversation.
+
+
 #### <ins> Learning Outcome 6 </ins>
 
 #### You analyse (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques.
