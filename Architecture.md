@@ -8,19 +8,19 @@ In this document you willl find my c4 models for my project.
 
 ##### User Story 1:
 
-As an user i want to see information about coins so that i now if it is a good idea to in invest in a coin.
+As an user I want to see information about coins so that I now if it is a good idea to in invest in a coin.
 
 ##### User Story 2:
 
-As an user i want to see how much the coins are at the moment and how much the coins have decreased or increased so that i now when to invest in a coin.
+As an user I want to see how much the coins are at the moment and how much the coins have decreased or increased so that I know when to invest in a coin.
 
 ##### User Story 3:
 
-As an user i want to login or create an account so that i can save things on my account.
+As an user I want to login or create an account so that I can save things on my account.
 
 ##### User Story 4: 
 
-As an user i want to save coins as favourites so that i can get to the coins easier and see them sooner.
+As an user I want to save coins as favourites so that I can get to the coins easier and see them sooner.
 
 ### Context Diagram
 
