@@ -17,6 +17,11 @@ For this learning outcome i need to make a full-stack application. Which means o
 
 [Outcome 1](https://fhict.instructure.com/courses/12096/pages/software-development)
 
+#### What do i need to do?
+
+- I need to use Javascript for making my frontend. In JS i will use the framework React. I did research about React and explained why i will use React. You can find the research in this document
+- 
+
 #### What have i done for this learning outcome?
 
 ##### Sprints
