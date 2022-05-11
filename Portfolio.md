@@ -19,7 +19,9 @@ For this learning outcome i need to make a full-stack application. Which means o
 
 #### What have i done for this learning outcome?
 
-##### Sprint 3 
+##### Sprints
+
+###### Frontend
 
 I made a frontend homepage for my project. I am making a Crypto tracker project. On my website you can find all Crypto coins and the information about them. This is the first page you will see when visiting my website.
 
@@ -30,6 +32,14 @@ When clicking on a coin you will see information about the coin and the decrease
 ![msedge_JBYPIu89qJ](https://user-images.githubusercontent.com/99720725/167800512-dbb726cf-8dc3-4277-a57a-26faec8d12af.png)
 
 Also i made a JAVA project where i did make a bit of code in. I now know how to make tables from my java code to my mssql database. I can do this because of my connection that i made in my code.
+
+###### What did i use?
+
+To get the frontend like this i used JS and CSS files. I also used a bit of HTML code in my JS files to style my tables etc. 
+
+###### API
+
+To get all the coins and all information about the coins i used an API. This is an API from coingecko. So what I did is I got all data via an url of coingecko. Because i use this url i can fetch all data from this API. so after getting all data i picked everything i need from the API and placed this on a good spot in my HTML code. This is the information you can see on my homepage.
 
 #### <ins> Learning Outcome 2 </ins>
 
