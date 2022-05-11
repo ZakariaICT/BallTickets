@@ -19,8 +19,11 @@ For this learning outcome i need to make a full-stack application. Which means o
 
 #### What do i need to do?
 
-- I need to use Javascript for making my frontend. In JS i will use the framework React. I did research about React and explained why i will use React. You can find the research in this document
-- 
+- I need to use Javascript for making my frontend. In JS i will use the framework React. I did research about React and explained why i will use React. You can find the research in this document [Research](https://github.com/ZakariaICT/CryptoTracker/blob/main/Research.md).
+- I need to use back-end techniques. For the backend I am using JAVA and within JAVA a framework called Springboot. For the explanation you can go to [Research](https://github.com/ZakariaICT/CryptoTracker/blob/main/Research.md). I also need to implement ORM techniques. ORM means converting data between a language and a database in my case. I will use MSSQL as my database. Because JAVA is an OOP language i can easily implement ORM in my code. Actually i already did implement this. I am creating Tables Automatically via my code.   
+- Also i need to use asynchronous communication in my application. This means that a user provides imformation and after this gets information back. What i will do for this is i will create a method that will send a verification mail to an user after an user made an account on my website.
+- I will get feedback from other people on my website to create the best user experience as possible.
+- Implement CRUD in my application.
 
 #### What have i done for this learning outcome?
 
@@ -36,7 +39,10 @@ When clicking on a coin you will see information about the coin and the decrease
 
 ![msedge_JBYPIu89qJ](https://user-images.githubusercontent.com/99720725/167800512-dbb726cf-8dc3-4277-a57a-26faec8d12af.png)
 
-Also i made a JAVA project where i did make a bit of code in. I now know how to make tables from my java code to my mssql database. I can do this because of my connection that i made in my code.
+###### ORM
+
+![idea64_qmvyT4YeMD](https://user-images.githubusercontent.com/99720725/167844247-60129c5f-b075-4039-a2a9-77b285c65356.png)
+So i made a Customer class in my Springboot project. In this class i am creating a table for my database with columns in it. This will create a table in the database automatically.
 
 ###### What did i use?
 
@@ -45,6 +51,8 @@ To get the frontend like this i used JS and CSS files. I also used a bit of HTML
 ###### API
 
 To get all the coins and all information about the coins i used an API. This is an API from coingecko. So what I did is I got all data via an url of coingecko. Because i use this url i can fetch all data from this API. so after getting all data i picked everything i need from the API and placed this on a good spot in my HTML code. This is the information you can see on my homepage.
+
+
 
 #### <ins> Learning Outcome 2 </ins>
 
@@ -59,6 +67,12 @@ TBA
 
 [Outcome 2]()
 
+#### What do i need to do for this learning outcome?
+
+- Testing my API with Postman.
+- DOT research to security.
+- Unit Tests and Integration Tests.
+
 
 #### What have i done for this learning outcome?
 
@@ -71,13 +85,18 @@ Choose You are aware of the most popular agile methods and their underlying agil
 
 #### What does this learning outcome mean?
 
-For this learning outcome i need to work within my group on a Agile way. This is a way to manage a project while breking it into several phases. The phases are: concept, inception, iteration, release, maintenance, and retirement. 
+For this learning outcome i need to work within my group on a Agile way. This is a way to manage a project while breaking it into several phases. The phases are: concept, inception, iteration, release, maintenance, and retirement. 
 
 [Outcome 3](https://fhict.instructure.com/courses/12096/pages/project-management-agile-why-and-how) 
 
 [Outcome 3](https://fhict.instructure.com/courses/12096/pages/project-management-how-to-plan-in-agile-projects) 
 
 [Outcome 3](https://fhict.instructure.com/courses/12096/pages/project-management-agile-management-tools)
+
+#### What do i need to do for this learning outcome?
+
+- I need to work withn Agile methods within my group. I will be using the SCRUM methode for communicating and working in the group.
+- I need to make an research on why we are using SCRUM as the method in AGILE.
 
 #### What have i done for this learning outcome?
 
@@ -105,6 +124,11 @@ Design and implement You design a release process and implement a continuous int
 CI/CD stands for continuous integration and continuous delivery/continuous deployment. This automates your software deleviry proces. So in my case i use Github and Github already has an extension that i can use for my CI/CD implementation. What i understand of CI is that my code will build, test and analyse as soon as i push my code to git when making a yml file. Also it makes it easier to automatically test my code because otherwise i need to do this manually. CD is the continuous deleviry. Herby i will make a docker repository where i will push my code in and make an image from this. CD helps with checking if my code is compatible for other devices such as apple or samsung and not only for windows. 
 
 [Outcome 4]()
+
+#### What do i need to do for this learning outcome?
+
+- I need to implement CI in my project. I will do this  with GitHub.
+- I need to implement CD in my project. I will do this with Docker.
 
 #### What have i done for this learning outcome?
 
@@ -136,6 +160,10 @@ TBA
 
 [Outcome 5](https://fhict.instructure.com/courses/12096/pages/group-management-can-you-work-with-people-from-other-cultures)
 
+#### What do i need to do for this learning outcome?
+
+- I need to explain how i work with the people in my group and how i react or give feedback to them. Also how i react to stakeholders.
+
 #### What have i done for this learning outcome?
 
 I did a pesonal test about what i actually am according to a few questions. This is what came out of the test:
@@ -158,6 +186,12 @@ For this learning outcome i need to make tests affter finising my code for by ex
 
 [Outcome 6](https://fhict.instructure.com/courses/12096/pages/stakeholder-analysis-who-has-a-stake-in-the-project-and-in-the-software)
 
+#### What do i need to do for this Learning Outcome?
+
+- I need to make user acceptance tests.
+- How do i go along with feedback of stakeholders?
+- 
+
 #### What have i done for this learning outcome?
 
 I created a c4 diagram for my application. You can find this in my architecture document.
@@ -177,6 +211,12 @@ For this learning outcome i need to work with my gorup mates. We need to work on
 
 [Outcome 7](https://fhict.instructure.com/courses/12096/pages/process-analysis-which-processes-are-supported-by-your-software)
 
+#### What do i need to do for this learning outcome?
+
+- Explain what is the benefit of my idea?
+- Create a research document with all the questions asked in Canvas.
+- What business processes are needed for the succes of my software?
+
 #### What have i done for this learning outcome?
 
 #### <ins> Learning Outcome 8 </ins>
@@ -191,6 +231,10 @@ Professional manner You actively ask and apply feedback from stakeholders and ad
 For this learning outcome i need to ask feedback to my stakeholders and also use these feedback and implement this in my project. I myself need to come with solutions on problems in my project but the stakeholders could help a little bit.
 
 [Outcome 8](https://fhict.instructure.com/courses/12096/pages/integrating-research-in-your-project)
+
+#### What do i need to do for this learning outcome?
+
+- Ask and apply feedback from stakeholders.
 
 #### What have i done for this learning outcome?
 
