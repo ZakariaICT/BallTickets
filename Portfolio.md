@@ -23,11 +23,11 @@ For this learning outcome i need to make a full-stack application. Which means o
 
 I made a frontend homepage for my project. I am making a Crypto tracker project. On my website you can find all Crypto coins and the information about them. This is the first page you will see when visiting my website.
 
-![image](![msedge_ByBEsAi71L](https://user-images.githubusercontent.com/99720725/167798055-c9a9dd41-8177-4bb2-9e6e-f388187f520a.png))
+![msedge_ByBEsAi71L](https://user-images.githubusercontent.com/99720725/167800550-20e5a40a-3049-405a-9adc-5f60ea4e6300.png)
 
 When clicking on a coin you will see information about the coin and the decreases or increases the coin made in a specific amount of time. This is an explanation.
 
-![image](![msedge_JBYPIu89qJ](https://user-images.githubusercontent.com/99720725/167800253-1190005c-aa02-44fd-87f2-11e1f5ebea1a.png))
+![msedge_JBYPIu89qJ](https://user-images.githubusercontent.com/99720725/167800512-dbb726cf-8dc3-4277-a57a-26faec8d12af.png)
 
 Also i made a JAVA project where i did make a bit of code in. I now know how to make tables from my java code to my mssql database. I can do this because of my connection that i made in my code.
 
