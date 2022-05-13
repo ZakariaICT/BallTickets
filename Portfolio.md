@@ -33,7 +33,6 @@ For this learning outcome i need to make a full-stack application. Which means o
 
 I made a frontend homepage for my project. I am making a Crypto tracker project. On my website you can find all Crypto coins and the information about them. This is the first page you will see when visiting my website.
 
-![msedge_ByBEsAi71L](https://user-images.githubusercontent.com/99720725/167800550-20e5a40a-3049-405a-9adc-5f60ea4e6300.png)
 
 When clicking on a coin you will see information about the coin and the decreases or increases the coin made in a specific amount of time. This is an explanation.
 
@@ -41,7 +40,6 @@ When clicking on a coin you will see information about the coin and the decrease
 
 ###### ORM
 
-![idea64_r0zfLttdjQ](https://user-images.githubusercontent.com/99720725/168297628-ad29d833-f70b-4ad5-9bb4-c1cb2f69b57e.png)
 
 So i made a Customer class in my Springboot project. In this class i am creating a table for my database with columns in it. This will create a table in the database automatically.
 
