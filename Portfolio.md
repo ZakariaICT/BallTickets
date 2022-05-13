@@ -41,7 +41,8 @@ When clicking on a coin you will see information about the coin and the decrease
 
 ###### ORM
 
-![idea64_qmvyT4YeMD](https://user-images.githubusercontent.com/99720725/167844247-60129c5f-b075-4039-a2a9-77b285c65356.png)
+![idea64_r0zfLttdjQ](https://user-images.githubusercontent.com/99720725/168297628-ad29d833-f70b-4ad5-9bb4-c1cb2f69b57e.png)
+
 So i made a Customer class in my Springboot project. In this class i am creating a table for my database with columns in it. This will create a table in the database automatically.
 
 ###### What did i use?
