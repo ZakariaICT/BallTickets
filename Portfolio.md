@@ -52,6 +52,14 @@ To get the frontend like this i used JS and CSS files. I also used a bit of HTML
 
 To get all the coins and all information about the coins i used an API. This is an API from coingecko. So what I did is I got all data via an url of coingecko. Because i use this url i can fetch all data from this API. so after getting all data i picked everything i need from the API and placed this on a good spot in my HTML code. This is the information you can see on my homepage.
 
+###### CRUD
+
+I implemented a create function in my code. Customer can now create an acocunt on my website which will ben saved in my database. My code is made up like this:
+Backend
+- I made a few classes. An AccountController, Account class, AccountRepository and AccountService classes. I use all these classes for this function. in my Account class i create a table for in my database on the ORM way. So the table will be created automatically. Furthermore i made an add function in my accountController class so that i can send data from my website. 
+Frontend
+- I made a registration class and created a view for on my website with textboxes and labels. In this class i use my Rest API that i have made in my backend. this looks like this: "http://localhost:8080/account/add". Because of this link i can add info to the database via my backend.
+
 
 
 #### <ins> Learning Outcome 2 </ins>
