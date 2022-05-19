@@ -24,6 +24,7 @@ For this learning outcome i need to make a full-stack application. Which means o
 - Also i need to use asynchronous communication in my application. This means that a user provides imformation and after this gets information back. What i will do for this is i will create a method that will send a verification mail to an user after an user made an account on my website.
 - I will get feedback from other people on my website to create the best user experience as possible.
 - Implement CRUD in my application.
+- Use Websockets.
 
 #### What have i done for this learning outcome?
 
@@ -141,6 +142,8 @@ CI/CD stands for continuous integration and continuous delivery/continuous deplo
 
 - I need to implement CI in my project. I will do this  with GitHub.
 - I need to implement CD in my project. I will do this with Docker.
+- Container runnen in docker 
+- Frontend CI/CD
 
 #### What have i done for this learning outcome?
 
