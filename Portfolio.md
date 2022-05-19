@@ -205,7 +205,7 @@ For this learning outcome i need to make tests affter finising my code for by ex
 
 - I need to make user acceptance tests.
 - How do i go along with feedback of stakeholders?
-- 
+- DOT research. Wat zou ik ermee kunnen doen?
 
 #### What have i done for this learning outcome?
 
