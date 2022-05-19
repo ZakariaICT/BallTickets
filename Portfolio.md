@@ -231,6 +231,8 @@ For this learning outcome i need to work with my gorup mates. We need to work on
 - Explain what is the benefit of my idea?
 - Create a research document with all the questions asked in Canvas.
 - What business processes are needed for the succes of my software?
+- Vragen beantwoorden in canvas.
+- Use swimming lanes.
 
 #### What have i done for this learning outcome?
 
