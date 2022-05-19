@@ -232,7 +232,7 @@ For this learning outcome i need to work with my gorup mates. We need to work on
 - Create a research document with all the questions asked in Canvas.
 - What business processes are needed for the succes of my software?
 - Vragen beantwoorden in canvas.
-- Use swimming lanes.
+- Use swimming lanes. Activity Diagrams
 
 #### What have i done for this learning outcome?
 
