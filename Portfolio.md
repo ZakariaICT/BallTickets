@@ -258,6 +258,10 @@ For this learning outcome i need to ask feedback to my stakeholders and also use
 
 #### What have i done for this learning outcome?
 
+##### Situation 1
+
+There was a moment within these sprints where i needed to make an API implementation for our project. This API would contain information about travel restrictions. So i worked on it and while working on it i found an API that could help me. This API contains all information we needed for our project. So when i was implementing this API i asked for help in my group because i was stuck. My groupmates helped me but also they couldnt figure out how to omplement this API because the API had an key which had to be in our code so that we could use the information. This was a big problem because in our code we tried everything with this extra key, we put it on different paces but it didn't work. Then we went to our stakeholder and explained what happened. Because we don't have much time left we made a suggestion to the stakeholder. We asked if we could use our own written data so that we could move on. The stakeholder approved and said that he understands it and hopes we could move on from this and create the other functions for our prorject. After this we applied this and luckily we are done with this function.
+
 
 
 
