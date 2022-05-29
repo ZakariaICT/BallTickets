@@ -64,6 +64,7 @@ Backend
 - I made a few classes. An AccountController, Account class, AccountRepository and AccountService classes. I use all these classes for this function. in my Account class i create a table for in my database on the ORM way. So the table will be created automatically. Furthermore i made an add function in my accountController class so that i can send data from my website. 
 Frontend
 - I made a registration class and created a view for on my website with textboxes and labels. In this class i use my Rest API that i have made in my backend. this looks like this: "http://localhost:8080/account/add". Because of this link i can add info to the database via my backend.
+- I made a delete function, a update function and a read function which works. I can now delete an account in my frontend using a REST API. Also i can update and read all accounts ass wel. To update and delete i am using another method where i can get an account by ID so that i can delete and update only the account i want.
 
 
 
@@ -88,6 +89,8 @@ TBA
 
 
 #### What have i done for this learning outcome?
+
+- I create Unit Tests for my CRUD operations. I made this in my springbootapplication. This looks like this.
 
 
 #### <ins> Learning Outcome 3 </ins>
