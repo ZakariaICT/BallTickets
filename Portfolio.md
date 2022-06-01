@@ -83,7 +83,7 @@ TBA
 
 #### What do i need to do for this learning outcome?
 
-- Testing my API with Postman.
+- Testing my API with Postman. (Wat kan er fout gaan bij de API?)
 - DOT research to security.
 - Unit Tests and Integration Tests.
 
