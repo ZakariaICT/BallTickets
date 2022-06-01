@@ -246,6 +246,8 @@ So for my application i am making a Crypto website where you could see different
 
 For my website i need to focus on business development. If i want to take my website to a bigger stage i need to work on the business development for my website. To get this done i can look at competitors that are on the market. After this i can make a strategie in how i can make my business grow.
 
+Also i need to create good marketing to get customer on my webiste because there already are a lot of providers that provide the same as me. So my marketing needs to be simple but also effective because i know out of experience that companies are trying to hard if we are talking about marketing. 
+
 [Questions from Canvas](https://github.com/ZakariaICT/CryptoTracker/blob/main/QuestionsLO.md)
 
 #### <ins> Learning Outcome 8 </ins>
