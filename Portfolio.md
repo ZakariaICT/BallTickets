@@ -20,10 +20,10 @@ For this learning outcome i need to make a full-stack application. Which means o
 #### What do i need to do?
 
 - [x] I need to use Javascript for making my frontend. In JS i will use the framework React. I did research about React and explained why i will use React. You can find the research in this document [Research](https://github.com/ZakariaICT/CryptoTracker/blob/main/Research.md).
-- I need to use back-end techniques. For the backend I am using JAVA and within JAVA a framework called Springboot. For the explanation you can go to [Research](https://github.com/ZakariaICT/CryptoTracker/blob/main/Research.md). I also need to implement ORM techniques. ORM means converting data between a language and a database in my case. I will use MSSQL as my database. Because JAVA is an OOP language i can easily implement ORM in my code. Actually i already did implement this. I am creating Tables Automatically via my code.  
-- Also i need to use asynchronous communication in my application. This means that a user provides imformation and after this gets information back.
+- [x] I need to use back-end techniques. For the backend I am using JAVA and within JAVA a framework called Springboot. For the explanation you can go to [Research](https://github.com/ZakariaICT/CryptoTracker/blob/main/Research.md). I also need to implement ORM techniques. ORM means converting data between a language and a database in my case. I will use MSSQL as my database. Because JAVA is an OOP language i can easily implement ORM in my code. Actually i already did implement this. I am creating Tables Automatically via my code.  
+- [x] Also i need to use asynchronous communication in my application. This means that a user provides imformation and after this gets information back.
 - I will get feedback from other people on my website to create the best user experience as possible.
-- Implement CRUD in my application.
+- [x] Implement CRUD in my application.
 - Use Websockets.
 
 #### What have i done for this learning outcome?
@@ -231,9 +231,9 @@ For this learning outcome i need to work with my gorup mates. We need to work on
 
 #### What do i need to do for this learning outcome?
 
-- Explain what is the benefit of my idea?
-- Create a research document with all the questions asked in Canvas.
-- What business processes are needed for the succes of my software?
+- [x] Explain what the benefit is of my idea?
+- [x] Create a research document with all the questions asked in Canvas.
+- [x] What business processes are needed for the succes of my software?
 - Use swimming lanes. Activity Diagrams
 
 #### What have i done for this learning outcome?
@@ -265,8 +265,8 @@ For this learning outcome i need to ask feedback to my stakeholders and also use
 
 #### What do i need to do for this learning outcome?
 
-- Ask and apply feedback from stakeholders.
-- Wat is er dit semester goed gegaan en minder goedgegaan?
+- [x] Ask and apply feedback from stakeholders.
+- What did go well this semester and wwhat didn't?
 
 #### What have i done for this learning outcome?
 
@@ -283,6 +283,8 @@ T: This happened in sprint 4. We thought we would be busy with this API for like
 A: Then we went to our stakeholder and explained what happened. Because we don't have much time left we made a suggestion to the stakeholder. We asked if we could use    our own written data so that we could move on. The stakeholder approved and said that he understands it and hopes we could move on from this and create the other      functions for our prorject. After this we applied this and luckily we are done with this function.
 R: Now we got our own data on our website. These data is written in our REACT JS code. We got the data from internet, it's just common data.
 R: We learned a lot about this. The biggest thing that we learned and what i have learned is that if we are stuck with a problem don't be stuck for a while and move o    on. Ask for feedback of the stakeholders or just come with a suggestion like we did on the end.
+
+##### Semester Review
 
 
 
