@@ -1,7 +1,7 @@
 
 ## Learning Outcome 1
 
-### What is UID?
+#### What is UID?
 
 UID is the process designers use to build interfaces in their software or computerized devices, focusing on looks or style. Designers then use interfaces which users find easy to use and learn. Within these UID’s we have got User Interfaces that are the access points where users interact with designs. We have got 3 formats:
 -	Graphical User Interfaces: Users interact with visual representations on digital control panels. A computer’s desktop is a GUI.
@@ -9,13 +9,13 @@ UID is the process designers use to build interfaces in their software or comput
 -	Gesture-based Interfaces: Users engage with 3D design spaces through bodily motions: e.g., in virtual reality (VR) games.
 
 
-### Difference between UX and UI
+#### Difference between UX and UI
 
 UI design is more concerned with the surface and overall feel of a design. UI design is a craft where you the designer build an essential part of the user experience. UX design covers the entire spectrum of the user experience. One analogy is to picture UX design as a car with UI design as the driving console.
  
 ## Learning Outcome 3
 
-### What does it mean agile development, the agile manifesto, the agile principles?
+#### What does it mean agile development, the agile manifesto, the agile principles?
 
 Agile is a way of dealing with a project in a group. Within Agile you think about how you can understand situation in the group and how you get along or adjust to it. Also in Agile you work within a loop. You have got some steps you can make if you are working on an Agile way. This is called SCRUM. 
 Those steps are:
@@ -51,7 +51,7 @@ Based on the Agile Manifesto there are 12 principles:
 12.	The best architectures, requirements, and designs emerge from self-organizing teams.
 
 
-### Which agile methods exist and which are most popular?
+#### Which agile methods exist and which are most popular?
 
 There are 5 main Agile methods:
 -	Scrum
@@ -61,23 +61,23 @@ There are 5 main Agile methods:
 -	Crystal 
 The most popular 1 is: SCRUM.
 
-### Can you explain Scrum in full details, as it is by the book? 
+#### Can you explain Scrum in full details, as it is by the book? 
 
 Scum is a framework where people can address complex problems, while productively and creatively delivering products of the highest possible value. In scrum there are different roles. You have got a Scrum master, Product owner and a developer team.
 
-### Can you explain two more agile methods and name a number of interesting features in them different from Scrum? 
+#### Can you explain two more agile methods and name a number of interesting features in them different from Scrum? 
 
-#### Kanban 
+##### Kanban 
 
 Kanban focuses on visualizing the entire project on boards in order to increase project transparency and collaboration between team members. In Kanban you’ve got a few features different than SCRUM. There are features like visual signs, Columns, Commitment point.
 
-#### Lean development
+##### Lean development
 
 Lean software development is a concept that emphasizes optimizing efficiency and minimizing waste in the software development process. This approach has its roots in the Lean manufacturing movement of the 1980s. However, it is now considered an integral part of the Agile software development methodology. In here you have also got some features like Eliminate waste, Build quality in and Create knowledge.
 Do you know how software engineers work in practice with agile methods? (to answer this question, we advise that you arrange a visit to a company)
 Companies use frameworks to work on the Agile way. This so they can complete their projects in an effective manner. All the project needs and requirements are listed in the framework and all projects progress in a smooth manner. 
 
-### Which agile management tool would you recommend for use in your project and why? 
+#### Which agile management tool would you recommend for use in your project and why? 
 
 I would use SRUM because this method is then most used and the easiest to apply to a project group. Also it has good tools for the project and planning etc. Furthermore is this a tool that I already heard about so it is easier for me to begin with this tool. And out project is just simple and doesn’t have any difficult things in it so I think this will be the best one to use for us.
 
