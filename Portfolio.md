@@ -255,6 +255,7 @@ For this learning outcome i need to ask feedback to my stakeholders and also use
 #### What do i need to do for this learning outcome?
 
 - Ask and apply feedback from stakeholders.
+- Wat is er dit semester goed gegaan en minder goedgegaan?
 
 #### What have i done for this learning outcome?
 
