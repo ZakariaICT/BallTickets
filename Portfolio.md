@@ -19,11 +19,11 @@ For this learning outcome i need to make a full-stack application. Which means o
 
 #### What do i need to do?
 
-~~- I need to use Javascript for making my frontend. In JS i will use the framework React. I did research about React and explained why i will use React. You can find the research in this document [Research](https://github.com/ZakariaICT/CryptoTracker/blob/main/Research.md).~~
-~~- I need to use back-end techniques. For the backend I am using JAVA and within JAVA a framework called Springboot. For the explanation you can go to [Research](https://github.com/ZakariaICT/CryptoTracker/blob/main/Research.md). I also need to implement ORM techniques. ORM means converting data between a language and a database in my case. I will use MSSQL as my database. Because JAVA is an OOP language i can easily implement ORM in my code. Actually i already did implement this. I am creating Tables Automatically via my code.   ~~
+- ~~I need to use Javascript for making my frontend. In JS i will use the framework React. I did research about React and explained why i will use React. You can find the research in this document [Research](https://github.com/ZakariaICT/CryptoTracker/blob/main/Research.md).~~
+- ~~I need to use back-end techniques. For the backend I am using JAVA and within JAVA a framework called Springboot. For the explanation you can go to [Research](https://github.com/ZakariaICT/CryptoTracker/blob/main/Research.md). I also need to implement ORM techniques. ORM means converting data between a language and a database in my case. I will use MSSQL as my database. Because JAVA is an OOP language i can easily implement ORM in my code. Actually i already did implement this. I am creating Tables Automatically via my code.   ~~
 - Also i need to use asynchronous communication in my application. This means that a user provides imformation and after this gets information back.
 - I will get feedback from other people on my website to create the best user experience as possible.
-~~- Implement CRUD in my application.~~
+- ~~Implement CRUD in my application.~~
 - Use Websockets.
 
 #### What have i done for this learning outcome?
