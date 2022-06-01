@@ -83,11 +83,11 @@ I would use SRUM because this method is then most used and the easiest to apply 
 
 ## Learning Outcome 5
 
-### What is culture?
+#### What is culture?
 
 Culture is the characteristics and knowledge of a particular group of people, you can think about language, religion, cuisine, social habits, music and arts. You have got different cultures in the world. You have got western culture, eastern culture, latin culture, middle eastern culture or the African culture.
 
-### Which are well-known dimensions on cultural differences?
+#### Which are well-known dimensions on cultural differences?
 
 There are 9 different dimensions:
 
@@ -102,23 +102,23 @@ There are 9 different dimensions:
 -	Gender egalitarianism
 
 
-### Can you give examples for cultural differences that you have experienced in your study or life? How do you explain these differences?  
+#### Can you give examples for cultural differences that you have experienced in your study or life? How do you explain these differences?  
 
 I often experience differences in my life. I am born in the Netherlands but my parents are born in Africa. Sometimes I experience differences in food, it sometimes are the little things like what I do on my bread for breakfast.
 
-### What is your culture? 
+#### What is your culture? 
 
 I am a Somalian from the Netherlands. My culture is the African culture. My culture is much different from the western culture where I live in now. Africans are over 1.3 billion people who belong to thousands of different ethnic groups and different clusters. For example in Africa they still trade with different things than money but in the western culture everything is ruled by money.
 
-### What is ethics in software engineering?
+#### What is ethics in software engineering?
 
 It establishes principles of cunduct that members of the profession are expected to observe in the practice of software engineering. These are related in 2 basic aspects of the software engineer’s role.
 
-### Why is ethics important in software engineering? 
+#### Why is ethics important in software engineering? 
 
 It leads employees and employers to understand the importance of practicing ethics in software engineering with the digitalizing workplace. So, when an ethical problem arise it has to be resolved straightforward under any circumstance or else unmanaged ethical problems will definitely will cause a serious problem.
 
-### What do you have to do as a software engineer to address ethical aspects in your work? 
+#### What do you have to do as a software engineer to address ethical aspects in your work? 
 
 To resolve ethical issues in your project you need to go true 10 steps:
 1.	Identify the problem as you see it.
@@ -132,15 +132,15 @@ To resolve ethical issues in your project you need to go true 10 steps:
 9.	Make a plan that you can defend professionally and ethically—and one that meets the requirements of the regulations.
 10.	Take action and evaluate your plan as you proceed to determine next steps.
 
-### How do you know that your ethical considerations match with those of other software engineers? 
+#### How do you know that your ethical considerations match with those of other software engineers? 
 
 For this you need to talk to other engineers that are close to you or that are working on the same project. You can put both ethical considerations next to each other to check if those match and talk about the differences.
 
-### Which ethical aspects play a role in your project?
+#### Which ethical aspects play a role in your project?
 
 Addictive design plays a little role in our project because we are making a website where you can see your vacations. And based on that you get offers for next trips. This is our way to get more and hold customers on our website.
 
-### Do you foresee ethical conflicts caused by your software? What kind of?  
+#### Do you foresee ethical conflicts caused by your software? What kind of?  
 
 Not much but we do think about this beforehand.
 
@@ -150,70 +150,70 @@ Get help and first analyze the project to avoid those conflicts.
  
 ## Learning Outcome 6
 
-### Are all the persons/roles that will use the application represented?
+#### Are all the persons/roles that will use the application represented?
 
 Yes I knew this beforehand. I am the developer. My teachers are the stakeholders, and the end users are the customers that eventually go on my website.
 
-### Are all the persons/roles/organizations that will support the application represented?
+#### Are all the persons/roles/organizations that will support the application represented?
 
 This has also happened. I also get the stakeholders involved in my project.
 
-### Are all the persons/roles that will design the application represented?
+#### Are all the persons/roles that will design the application represented?
 
 Yes those persons are my groupmates, the stakeholder of the company and me.
 
-### Are all the persons/roles/organizations that will invest in the design of the application represented?
+#### Are all the persons/roles/organizations that will invest in the design of the application represented?
 
 Yes we got a project from a company so they invested in us to make this application for them.
 
-### Are there any persons/organizations who are negative stakeholders (getting negatives from the project or software)?
+#### Are there any persons/organizations who are negative stakeholders (getting negatives from the project or software)?
 
 No happily not.
 
-### Are all persons/roles who manage the project represented?
+#### Are all persons/roles who manage the project represented?
 
 Yes.
 
-### What are non-functional requirements? 
+#### What are non-functional requirements? 
 
 This is a requirement that specifies criteria that can be used to judge the operation of a system, rather than specific behaviors. So for example I use Spring boot for my application. This is a non functional requirement.
 
-### How do you specify functional and non-functional requirements in your agile method and how do you validate them? 
+#### How do you specify functional and non-functional requirements in your agile method and how do you validate them? 
 
 I first make the requirements than put these in use cases. This is for me an easy way to see what I need to make as functional requirements.
 
-### When do you elicit and specify the requirements in your agile method? Are you allowed to change or update them?  
+#### When do you elicit and specify the requirements in your agile method? Are you allowed to change or update them?  
 
 I create this when making the sprint backlog so that I now what I exactly need to make for the upcoming sprint.
 
-### What does it mean software architecture? 
+#### What does it mean software architecture? 
 
 This is the organization of a system. This organization includes all components, how they interact with each other, the environment in which they operate, and the principles used to design the software. In many cases it can also include the evolution of the software into the future.
 
-### What is the difference between software design and software architecture? 
+#### What is the difference between software design and software architecture? 
 
 Software architecture is primarily concerned with what the components and relationships are, and software design focuses on how the components interact. Software architecture and design are two separate parts of one process that depend on each other for success.
 
-### What are software design patterns? What are architectural patterns? 
+#### What are software design patterns? What are architectural patterns? 
 
 Software design patterns are reusable solutions to common problems in software development. As the name suggests, however, a software design pattern is not code – rather, software design patterns act as a guide or paradigm to help software engineers create products following best practices. There are 23 design patterns.
 An architectural pattern is a general, reusable solution to a commonly occurring problem in software architecture within a given context.[1] The architectural patterns address various issues in software engineering, such as computer hardware performance limitations, high availability and minimization of a business risk. Some architectural patterns have been implemented within software frameworks.
 
-### How are non-functional requirements related to the architecture and designs?
+#### How are non-functional requirements related to the architecture and designs?
 
 Nonfunctional Requirements (NFRs) define system attributes such as security, reliability, performance, maintainability, scalability, and usability. They serve as constraints or restrictions on the design of the system across the different backlogs.
 
-### How do you deal with architecture and design in agile projects? 
+#### How do you deal with architecture and design in agile projects? 
 
 I first make the architecture and design of my project to then now where I can start on my project.
  
  ## Learning Outcome 7
 
-### What is a business process? 
+#### What is a business process? 
 
 A business process is an activity or set of activities that accomplish a specific organizational goal. Business processes should have purposeful goals, be as specific as possible and produce consistent outcomes.
 
-### Why are business processes important?
+#### Why are business processes important?
 
 Defined business processes within the organization are critical to enterprise success for the following reasons:
 -	They help organizations identify and understand the actual work required to keep the lights on and to achieve organizational objectives.
@@ -223,13 +223,13 @@ Defined business processes within the organization are critical to enterprise su
 -	Being able to better measure the efficiency and effectiveness of the individual steps within the process enables teams to identify and mitigate inefficiencies and bottlenecks to improve performance; this is the foundation of continuous improvement.
 -	Teams are better able to identify where technologies -- such as robotic process automation (RPA) -- can be used to further boost effectiveness or efficiencies.
 
-### How a business proces relates to software applications? 
+#### How a business proces relates to software applications? 
 
 Business Process Management in software companies is more inclined towards the software development life cycle methodologies. The core processes happening inside any software company involves processes related to planning, creating, testing, and deploying applications.
 
 ## Learning Outcome 8
 
-### What is DOT Framework?
+#### What is DOT Framework?
 
 The DOT framework can help to structure my research and to communicate about it. The development Oriented Triangulation (DOT) framework consists of 3 levels:
 -	The “What” of your research.
@@ -237,15 +237,15 @@ The DOT framework can help to structure my research and to communicate about it.
 -	The “How” of your research.
 
 
-#### The “What”
+##### The “What”
 
 This is also called the domain. The first domain is the application domain. This is the domain of the specific context that the ICT project takes place. The second domain is about available work. All available theory, model and other artefacts that you can use are part of the available work domain. Thirdly is the innovation domain, where your actual innovation takes place and all of the research is done.
 
-#### The ”Why”
+##### The ”Why”
 
 In this phase I ask myself the question why am I doing research to this?
 
-#### The “How”
+##### The “How”
 
 These are the strategies and methods. 
 
