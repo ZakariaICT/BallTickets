@@ -258,9 +258,19 @@ For this learning outcome i need to ask feedback to my stakeholders and also use
 
 #### What have i done for this learning outcome?
 
+##### Feedpulse
+
+I often get feedback from my teachers. I could get more feedback but i am working on it now. SO=o when i get feedback i write this down in the feedpusle. This looks like this: 
+![msedge_4U9qUwcP0p](https://user-images.githubusercontent.com/99720725/171360488-dd22a30f-51f7-4ef9-9d2b-739d2d91c1ac.png)
+In tese feedpusles i explain what the teacher said to me and what i need to do or what i need to change to make my code/documents better.
+
 ##### Situation 1
 
-There was a moment within these sprints where i needed to make an API implementation for our project. This API would contain information about travel restrictions. So i worked on it and while working on it i found an API that could help me. This API contains all information we needed for our project. So when i was implementing this API i asked for help in my group because i was stuck. My groupmates helped me but also they couldnt figure out how to omplement this API because the API had an key which had to be in our code so that we could use the information. This was a big problem because in our code we tried everything with this extra key, we put it on different paces but it didn't work. Then we went to our stakeholder and explained what happened. Because we don't have much time left we made a suggestion to the stakeholder. We asked if we could use our own written data so that we could move on. The stakeholder approved and said that he understands it and hopes we could move on from this and create the other functions for our prorject. After this we applied this and luckily we are done with this function.
+S: There was a moment within these sprints where i needed to make an API implementation for our project. This API would contain information about travel restrictions.    So i worked on it and while working on it i found an API that could help me. This API contains all information we needed for our project. So when i was implementing    this API i asked for help in my group because i was stuck. My groupmates helped me but also they couldnt figure out how to omplement this API because the API had an    key which had to be in our code so that we could use the information. This was a big problem because in our code we tried everything with this extra key, we put it    on different paces but it didn't work.
+T: This happened in sprint 4. We thought we would be busy with this API for like 3 days but that was not the case. Because of this we needed to do something else.
+A: Then we went to our stakeholder and explained what happened. Because we don't have much time left we made a suggestion to the stakeholder. We asked if we could use    our own written data so that we could move on. The stakeholder approved and said that he understands it and hopes we could move on from this and create the other      functions for our prorject. After this we applied this and luckily we are done with this function.
+R: Now we got our own data on our website. These data is written in our REACT JS code. We got the data from internet, it's just common data.
+R: We learned a lot about this. The biggest thing that we learned and what i have learned is that if we are stuck with a problem don't be stuck for a while and move o    on. Ask for feedback of the stakeholders or just come with a suggestion like we did on the end.
 
 
 
