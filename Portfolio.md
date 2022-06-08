@@ -209,6 +209,15 @@ I did a pesonal test about what i actually am according to a few questions. This
 
 As you can see i am a introvert person. This is what i already thought i would be. I am no the type that starts a conversation in the group so soon but i prefer to wait and join the conversation.
 
+#### Situation in the group
+
+We were working on our project and at the end we still had to make a bit of work. So some of us stressed because we didnt have much time left. For example me i was a bit stressed because we cant come to the Stakeholder with a not done application. When this happened we all put in a lot of work. We worked together and made the project almost done. Anwar didn't stress much and took a bit of control in the group. Timo was like me a bit stressed and wanted to make this as soon as possible. Julian was relaxed and didn't worry much about it so we were not all on the same level.
+
+#### Other Situation
+
+We started this project with 5 people but ended with 4. This is because 1 in our group stopped because he doesn't think he can finish this semester with a S anymore.
+When this happened we were a bit dissappointed cause he had a job on his own to make but now he has stopped he couldn't finish this anymore. Also unfortune for Bart that he can't finish this semester anymore. Our group reflected on this and we reacted well on this loss. We talked about it with our Stakeholder and we came to an agreement that if we have time left we would finish the task Bart had. We all reacted the same on this situation.
+
 
 #### <ins> Learning Outcome 6 </ins>
 
