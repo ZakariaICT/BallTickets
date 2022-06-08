@@ -141,6 +141,10 @@ If you make an burndownchart you need to make a sprintbacklog in Trello so we wo
 
 So we left a lot of usefull stuff because we went to Trello.
 
+##### What did we learn?
+
+We learned that if you use GitHub on the right way it would be a lot easier to work with in the group and it will be much nicer. Also the project would be made in a smoother way. Trello has a lot of usefull stuff aswell but I didn't know about the things GitHub provides. If we use GitHub in a proper way we would't even had to discuss issues but we could only push these to GitHub as a bug and the other people int he group could solve this.
+
 
 
 #### <ins> Learning Outcome 4 </ins> 
