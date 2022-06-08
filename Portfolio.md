@@ -126,6 +126,21 @@ For our project we use the Scrum method. This is a method within Agile that is c
 
 ![chrome_s6fBrBAlNT](https://user-images.githubusercontent.com/99720725/163978383-a148ae9a-0048-47e4-823a-564b3f497e4b.png)
 
+#### From Github to Trello
+
+We went from Github to Trello in the middle of our project. We needed to make a burndown chart for our project because we use SCRUM in Agile. We went to do some research on how to make a burndown chart and what applications we could use to make this. We ended up with a website where we could make something like a burndown chart. After a while we came to the conclusion that this wasn't going to work for our project.
+
+After this we talked with our Stakeholder and he gave us some advise. He said that we could ask the other group for help. So we asked the other group how they made a burndown chart. They made it in Trello, this was much easier. So we also made it in Trello. 
+
+If you make an burndownchart you need to make a sprintbacklog in Trello so we would leave our sprint backlog in GitHub. Because of this we could not use much helpfull skills of GitHub. I learned after this decision that GitHUb has a lot of usefull skills such as:
+
+- We can't define bugs in our project to GitHub.
+- We can't see what issues are solved and which are not.
+- Other people can not learn from your bugs.
+- Other people in the group can't learn for the solved issues.
+
+So we left a lot of usefull stuff because we went to Trello.
+
 
 
 #### <ins> Learning Outcome 4 </ins> 
