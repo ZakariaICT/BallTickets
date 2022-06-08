@@ -227,6 +227,20 @@ Defined business processes within the organization are critical to enterprise su
 
 Business Process Management in software companies is more inclined towards the software development life cycle methodologies. The core processes happening inside any software company involves processes related to planning, creating, testing, and deploying applications.
 
+### Business process related to my project
+
+So based on my experience I see that a lot of websites that provide the same thing as me are a bit complicated. You need to do a lot of things before you can see the coin you wanted to see. With my website the customer doesn't have to do a lot to see the coin he wants to see. There are less steps if you are using my website.
+
+#### Business process on other websites
+
+![draw io_v0EZRuuxZB](https://user-images.githubusercontent.com/99720725/172682054-81a87b2d-707b-4ed9-9da2-9de1d679bd09.png)
+
+#### Business process on my website
+
+![draw io_UfIq5Fr4jY](https://user-images.githubusercontent.com/99720725/172682119-146658f5-64a1-4126-b3cf-f681e637b622.png)
+
+As you can see with my website there are less steps to take to get to the goal.
+
 ## Learning Outcome 8
 
 #### What is DOT Framework?
