@@ -261,8 +261,7 @@ For this learning outcome i need to work with my gorup mates. We need to work on
 
 - [x] Explain what the benefit is of my idea?
 - [x] Create a research document with all the questions asked in Canvas.
-- [x] What business processes are needed for the succes of my software?
-- Use swimming lanes. Activity Diagrams
+- [x] Use swimming lanes. Activity Diagrams
 
 #### What have i done for this learning outcome?
 
@@ -270,11 +269,6 @@ For this learning outcome i need to work with my gorup mates. We need to work on
 
 So for my application i am making a Crypto website where you could see different Crypto currencies such as Bitcoin and Ethereum. Of course you can see the price and all but also you can see information about the coin and how much it has increased or dipped. I made this because i myself hold Crpyto so I already had knowledge about it. What i see on each Broker (these are websites/apps that offer crypto) is that there is too much information on the website or the app and it isn't easy to go to the thing you want to see. On my website you can see the coin and if you click on it you also can see information about the coin. These coins are also filtered on popularity. My websites makes it easy for people to look at coins if they are for example in a hurry but also it makes it more clearer. 
 
-##### What business processes are needed for the succes of my software?
-
-For my website i need to focus on business development. If i want to take my website to a bigger stage i need to work on the business development for my website. To get this done i can look at competitors that are on the market. After this i can make a strategie in how i can make my business grow.
-
-Also i need to create good marketing to get customer on my webiste because there already are a lot of providers that provide the same as me. So my marketing needs to be simple but also effective because i know out of experience that companies are trying to hard if we are talking about marketing. 
 
 [Questions from Canvas](https://github.com/ZakariaICT/CryptoTracker/blob/main/QuestionsLO.md)
 
